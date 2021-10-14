@@ -5,5 +5,4 @@
 /.ipynb_checkpoints/
 */bin/*
 bin/
-python/bin/
-/bin/
+bin
