@@ -1,7 +1,3 @@
 *.txt
 *.cfg
-*/.ipynb_checkpoints/*
-.ipynb_checkpoints/*
-.ipynb_checkpoints/
-/.ipynb_checkpoints/
 bin
