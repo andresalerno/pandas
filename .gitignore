@@ -1,5 +1,5 @@
 *.txt
 *.cfg
-bin
+.pandas/bin
 lib
 include
